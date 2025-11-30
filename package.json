@@ -1,0 +1,16 @@
+{
+  "name": "agentic-e90c2bdf",
+  "private": true,
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start -p $PORT",
+    "lint": "echo 'no lint'"
+  },
+  "dependencies": {
+    "next": "14.2.9",
+    "react": "18.3.1",
+    "react-dom": "18.3.1"
+  }
+}
